@@ -52,7 +52,7 @@ var defaultConfigRTMP = {
 // set log level:
 // -- .DEBUG for dev
 // -- .NONE for prod
-AgoraRTC.Logger.setLogLevel(AgoraRTC.Logger.DEBUG);
+AgoraRTC.Logger.setLogLevel(AgoraRTzzC.Logger.DEBUG);
 
 // init Agora SDK
 client.init(
